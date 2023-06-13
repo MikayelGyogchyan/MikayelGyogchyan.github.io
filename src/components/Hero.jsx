@@ -13,8 +13,8 @@ const Hero = () => {
         <div className='flex flex-col justify-center items-center mt-11'>
         </div>
         <div>
-          <h1 className={`${styles.heroHeadText} text-[#7938d1]`}>
-            Mikayel <span className=' text-[#6938d1]'>Gyogchyan</span>
+          <h1 className={`${styles.heroHeadText} violet-text-gradient`}>
+            Mikayel <span className=' violet-text-gradient'>Gyogchyan</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-violet-200`}>
             I develop web pages, user <br className='sm:block hidden' />
