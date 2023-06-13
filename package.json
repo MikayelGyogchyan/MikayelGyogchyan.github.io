@@ -1,9 +1,9 @@
 {
+  "homepage": "http://mikayelgyogchyan.github.io/MikayelGyogchyan.github.io",
   "name": "project3d",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mikayelgyogchyan.github.io/MikayelGyogchyan.github.io",
   
   "scripts": {
     "dev": "vite",
