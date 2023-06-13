@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
+  "homepage": "http://mikayelgyogchyan.github.io/MikayelGyogchyan.github.io",
+  
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
@@ -13,7 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "homepage": "http://https://mikayelgyogchyan.github.io/",
+    
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.74.6",
     "@react-three/fiber": "^8.13.0",
