@@ -7,8 +7,6 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import sass from "./tech/sass.png";
-import ps from "./tech/ps.png";
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -22,18 +20,11 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
 import realvalencia from "./realvalencia.png";
 import netgeeks from "./netgeeks.png";
 import adminpanel from "./adminpanel.png";
 
 export {
-  sass,
-  ps,
   logo,
   backend,
   creator,
