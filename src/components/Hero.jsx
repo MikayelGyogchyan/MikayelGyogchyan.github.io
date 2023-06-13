@@ -6,7 +6,7 @@ import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
   return (
-    <section className={`relative w-full h-screen mx-auto darkviolet-gradient`}>
+    <section className={`relative w-full h-screen mx-auto darkviolet-gradient`}>      
       <div
         className={`absolute inset-0 top-[120px] max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
       >
@@ -52,7 +52,7 @@ const Hero = () => {
               }}
               className='w-4 h-3 rounded-full bg-secondary mb-1'
             />
-          </div>
+          </div>        
         </a>
       </div>
     </section>  )

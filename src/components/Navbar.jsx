@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-
+const audio = document.getElementById("audio");
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
@@ -42,7 +42,9 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-<img src="logoMik.jpg" alt='logo' className='w-12 h-12 object-contain' />          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+<img src="logoMik.jpg" alt='logo' className='w-12 h-12 object-contain' />          
+
+<p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Mikayel &nbsp;
             <span className='sm:block hidden'> | Web Developer</span>
           </p>
