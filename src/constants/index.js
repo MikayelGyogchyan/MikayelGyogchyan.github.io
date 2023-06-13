@@ -21,8 +21,6 @@ import {
   netgeeks,
   adminpanel,
   threejs,
-  sass,
-  ps,
 } from "../assets";
 
 export const navLinks = [
@@ -65,10 +63,6 @@ const technologies = [
     icon: css,
   },
   {
-    name: "sass",
-    icon: sass,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -103,10 +97,6 @@ const technologies = [
   {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "ps",
-    icon: ps,
   },
 
 ];
