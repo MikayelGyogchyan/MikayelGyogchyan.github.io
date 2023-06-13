@@ -18,7 +18,7 @@ const Tech = () => {
         <p className={`${styles.sectionSubText} text-center`}>
           Technologies that i use
         </p>
-        <h2 className={`${styles.sectionHeadText} text-center`}>
+        <h2 className={`${styles.sectionHeadText} text-center violet-text-gradient`}>
           Technologies
         </h2>
       </motion.div>
